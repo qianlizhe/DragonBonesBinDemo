@@ -1,0 +1,2 @@
+# DragonBonesBinDemo
+使用egret加载DragonBones龙骨二进制数据的demo
